@@ -10,10 +10,10 @@ function preload() {
 function setup() {
 	createCanvas(600, 200);
 	ellipseMode(CORNER);
+
 }
 
 function draw() {
 	background(220);
-
 
 }
