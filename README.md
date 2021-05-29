@@ -1,6 +1,8 @@
 # Intro
 In the template you'll find 5 files - `index.html`, `script.js`,  `style.css`, `dino.js`, and `cactus.js`
 
+Fork the [template](https://replit.com/@Fogeinator/dino-tutorial)
+
 # Creating the Dino
 First, let's create our dinosaur. Open up `dino.js`.
 
